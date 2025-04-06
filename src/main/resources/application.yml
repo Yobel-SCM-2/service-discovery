@@ -1,0 +1,7 @@
+spring:
+  config:
+    import: optional:configserver:http://configuser:${CONFIG_SERVER_PASSWORD:configpassword}@localhost:8888
+  application:
+    name: service-discovery
+  profiles:
+    active: ${SPRING_PROFILES_ACTIVE:dev}
