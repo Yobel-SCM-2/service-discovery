@@ -1,4 +1,4 @@
-package com.uguimar.servicediscovery;
+package com.yobel.servicediscovery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

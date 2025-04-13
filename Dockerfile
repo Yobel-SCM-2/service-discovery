@@ -32,4 +32,4 @@ RUN addgroup --system --gid 1001 appgroup && \
 USER appuser
 
 EXPOSE 8761
-ENTRYPOINT ["java","-Djava.security.egd=file:/dev/./urandom","-cp","app:app/lib/*","com.uguimar.servicediscovery.ServiceDiscoveryApplication"]
+ENTRYPOINT ["java","-Djava.security.egd=file:/dev/./urandom","-cp","app:app/lib/*","com.yobel.servicediscovery.ServiceDiscoveryApplication"]

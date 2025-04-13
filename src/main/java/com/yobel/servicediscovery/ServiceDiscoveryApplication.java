@@ -1,4 +1,4 @@
-package com.uguimar.servicediscovery;
+package com.yobel.servicediscovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

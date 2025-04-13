@@ -8,7 +8,7 @@
 		<version>3.4.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.uguimar</groupId>
+	<groupId>com.yobel</groupId>
 	<artifactId>service-discovery</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>service-discovery</name>
